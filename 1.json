@@ -1,0 +1,13 @@
+{
+    "name": "bbeshen1y/1",
+    "description": "My package description",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "BbEShen1Y\\One\\": "src/"
+        }
+    }
+}
